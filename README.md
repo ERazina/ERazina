@@ -1,6 +1,3 @@
-## Hi there 👋
-<br />
-
 <h1>Обо мне</h1>
 <br />
 Карьерные путь можно посмотреть в <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">LinkedIn</a>.
