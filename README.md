@@ -2,6 +2,7 @@
 
 Обо мне
 Карьерные путь можно посмотреть в <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">LinkedIn</a>.
+<br />
 Профиль на <a href="https://getmentor.dev/mentor/elina-razina-3127" rel="nofollow">GetMentor</a>.
 
 <!--
