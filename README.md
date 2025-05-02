@@ -1,9 +1,9 @@
 <h1>Обо мне</h1>
 <br />
-Мой карьерный путь можно посмотреть в <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">LinkedIn</a>.
+Мой карьерный путь можно посмотреть в <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">LinkedIn</a>
 <br />
-Профиль на <a href="https://getmentor.dev/mentor/elina-razina-3127" rel="nofollow">GetMentor</a>.
-<a href="https://erazina.github.io" rel="nofollow">Сайт-портфолио</a>.
+Профиль на <a href="https://getmentor.dev/mentor/elina-razina-3127" rel="nofollow">GetMentor</a><br />
+<a href="https://erazina.github.io" rel="nofollow">Сайт-портфолио</a>
 
 <!--
 **ERazina/ERazina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
