@@ -1,9 +1,11 @@
-<h1>Обо мне</h1>
+<h1>About</h1>
 <br />
-Мой карьерный путь можно посмотреть в <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">LinkedIn</a>
+React Frontend developer with 7 year experience in frontend. Worked at global companies <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">See resume and invite me for an interview</a><br />
+Linkedin profile <a href="https://www.linkedin.com/in/elina-razina/" rel="nofollow">Write me and invite for the inverview</a>
 <br />
-Профиль на <a href="https://getmentor.dev/mentor/elina-razina-3127" rel="nofollow">GetMentor</a><br />
-<a href="https://erazina.github.io" rel="nofollow">Сайт-портфолио</a>
+Frontend mentor<a href="https://getmentor.dev/mentor/elina-razina-3127" rel="nofollow">Price for consultation</a><br />
+Youtube channel about frontend where I explain dificult things easy - <a href="https://www.youtube.com/@frontend_university" >Youtube</a><br />
+<a href="https://erazina.github.io" rel="nofollow">Portfolio</a>
 
 <!--
 **ERazina/ERazina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
